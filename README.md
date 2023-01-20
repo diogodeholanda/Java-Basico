@@ -1,4 +1,5 @@
 # Java-Basico
 Repositório para armazenar todo o código do curso de Java Básico
 
-Alterando conteúdo de um arquivo de forma local (ajuste)
+
+Alterando conteúdo de um arquivo de forma local e confirmando
